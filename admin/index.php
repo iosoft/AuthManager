@@ -1,0 +1,5 @@
+<?php
+
+/* keep quiet. */
+
+?>

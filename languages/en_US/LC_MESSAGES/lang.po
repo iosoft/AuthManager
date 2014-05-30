@@ -1,0 +1,1203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auth Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-02 23:15+0530\n"
+"PO-Revision-Date: 2012-08-04 02:49+0530\n"
+"Last-Translator: StitchApps <support@stitchapps.com>\n"
+"Language-Team: StitchApps <support@stitchapps.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:8
+#: admin/access.php:42
+#: admin/functions.php:17
+#: admin/functions.php:128
+#: admin/log.php:32
+#: admin/sql-logs.php:19
+#: admin/statistics.php:18
+#: admin/users.php:73
+msgid "Home"
+msgstr ""
+
+#: profile.php:5
+#: admin/log.php:14
+#: admin/log.php:17
+#: admin/log.php:20
+#: admin/log.php:57
+msgid "Error"
+msgstr ""
+
+#: profile.php:26
+msgid "'s profile"
+msgstr ""
+
+#: profile.php:30
+msgid "The user has not entered any information in this section. You can check back some time later to see any changes made over here."
+msgstr ""
+
+#: profile.php:38
+msgid "Facebook Profile"
+msgstr ""
+
+#: profile.php:62
+msgid "About Me"
+msgstr ""
+
+#: profile.php:68
+msgid "Info"
+msgstr ""
+
+#: profile.php:71
+#: admin/users.php:105
+msgid "Name"
+msgstr ""
+
+#: profile.php:72
+#: admin/functions.php:47
+#: admin/functions.php:159
+#: admin/functions.php:320
+#: admin/functions.php:338
+#: admin/users.php:107
+msgid "Email"
+msgstr ""
+
+#: profile.php:73
+#: admin/functions.php:180
+msgid "Joined On"
+msgstr ""
+
+#: profile.php:74
+#: admin/functions.php:186
+#: admin/users.php:109
+msgid "Last Access"
+msgstr ""
+
+#: profile.php:75
+#: admin/functions.php:310
+msgid "Facebook"
+msgstr ""
+
+#: profile.php:81
+#: admin/add-user.php:8
+#: admin/functions.php:13
+#: admin/functions.php:19
+#: admin/functions.php:82
+#: admin/users.php:71
+msgid "Add User"
+msgstr ""
+
+#: admin/access.php:13
+#: admin/access.php:39
+#: admin/access.php:43
+#: admin/functions.php:137
+#: admin/functions.php:216
+msgid "Access Logs"
+msgstr ""
+
+#: admin/access.php:40
+#: admin/sql-logs.php:17
+#: admin/statistics.php:16
+#: admin/users.php:71
+msgid "Options"
+msgstr ""
+
+#: admin/access.php:40
+msgid "Access Settings"
+msgstr ""
+
+#: admin/access.php:71
+#: admin/sql-logs.php:25
+#: admin/users.php:104
+msgid "ID"
+msgstr ""
+
+#: admin/access.php:72
+#: admin/functions.php:232
+msgid "IP Address"
+msgstr ""
+
+#: admin/access.php:73
+msgid "Username"
+msgstr ""
+
+#: admin/access.php:74
+#: admin/functions.php:233
+msgid "Country"
+msgstr ""
+
+#: admin/access.php:75
+#: admin/functions.php:234
+msgid "Access"
+msgstr ""
+
+#: admin/access.php:123
+#: admin/functions.php:265
+msgid "No Access Records."
+msgstr ""
+
+#: admin/access.php:123
+msgid "There are no access records in the database."
+msgstr ""
+
+#: admin/access.php:124
+msgid "Suggestion"
+msgstr ""
+
+#: admin/access.php:124
+msgid "Make sure you have enabled the option to log user access information in the settings panel."
+msgstr ""
+
+#: admin/access.php:127
+#: admin/add-user.php:83
+#: admin/clear-logs.php:31
+#: admin/log.php:61
+#: admin/manageuser.php:58
+#: admin/settings.php:427
+#: admin/sql-logs.php:56
+#: admin/statistics.php:66
+#: admin/users.php:191
+msgid "Unauthorized Access."
+msgstr ""
+
+#: admin/access.php:127
+#: admin/add-user.php:83
+#: admin/clear-logs.php:31
+#: admin/log.php:61
+#: admin/manageuser.php:58
+#: admin/settings.php:427
+#: admin/sql-logs.php:56
+#: admin/statistics.php:66
+#: admin/users.php:191
+msgid "You are not authorized to access this page."
+msgstr ""
+
+#: admin/add-user.php:66
+msgid "User Added."
+msgstr ""
+
+#: admin/add-user.php:66
+msgid "A new user has been added successfully."
+msgstr ""
+
+#: admin/add-user.php:68
+msgid "Email already exists."
+msgstr ""
+
+#: admin/add-user.php:68
+msgid "This email is already registered with us."
+msgstr ""
+
+#: admin/add-user.php:71
+msgid "Invalid Email."
+msgstr ""
+
+#: admin/add-user.php:71
+msgid "Please enter a valid email address in the email field."
+msgstr ""
+
+#: admin/add-user.php:74
+#: admin/settings.php:111
+msgid "Empty Fields."
+msgstr ""
+
+#: admin/add-user.php:74
+msgid "Please fill in all the fields."
+msgstr ""
+
+#: admin/clear-logs.php:4
+#: admin/clear-logs.php:8
+#: admin/sql-logs.php:17
+msgid "Clear SQL Logs"
+msgstr ""
+
+#: admin/clear-logs.php:23
+msgid "Logs Deleted."
+msgstr ""
+
+#: admin/clear-logs.php:23
+msgid "All application logs have been deleted from the system."
+msgstr ""
+
+#: admin/clear-logs.php:25
+msgid "You are about to delete all application SQL logs from the system. Please note that this process is irreversible and logs once deleted cannot be recovered. Please be sure before clicking the button below to proceed further."
+msgstr ""
+
+#: admin/clear-logs.php:27
+msgid "Clear all SQL logs"
+msgstr ""
+
+#: admin/functions.php:18
+#: admin/functions.php:129
+#: admin/users.php:74
+msgid "Users"
+msgstr ""
+
+#: admin/functions.php:24
+#: admin/functions.php:32
+#: admin/functions.php:135
+#: admin/functions.php:144
+#: admin/functions.php:307
+msgid "General"
+msgstr ""
+
+#: admin/functions.php:25
+#: admin/functions.php:71
+#: admin/functions.php:136
+#: admin/functions.php:204
+msgid "Profile"
+msgstr ""
+
+#: admin/functions.php:35
+#: admin/functions.php:147
+msgid "First Name"
+msgstr ""
+
+#: admin/functions.php:41
+#: admin/functions.php:153
+msgid "Last Name"
+msgstr ""
+
+#: admin/functions.php:53
+#: admin/functions.php:165
+msgid "Password"
+msgstr ""
+
+#: admin/functions.php:59
+#: admin/functions.php:171
+#: admin/users.php:106
+msgid "Verified"
+msgstr ""
+
+#: admin/functions.php:62
+#: admin/functions.php:174
+#: admin/functions.php:195
+#: admin/functions.php:377
+#: admin/functions.php:398
+#: admin/functions.php:432
+#: admin/users.php:148
+msgid "Yes"
+msgstr ""
+
+#: admin/functions.php:63
+#: admin/functions.php:175
+#: admin/functions.php:196
+#: admin/functions.php:378
+#: admin/functions.php:399
+#: admin/functions.php:433
+#: admin/users.php:151
+#: admin/users.php:154
+msgid "No"
+msgstr ""
+
+#: admin/functions.php:74
+#: admin/functions.php:207
+msgid "Bio"
+msgstr ""
+
+#: admin/functions.php:192
+#: admin/users.php:138
+msgid "Banned"
+msgstr ""
+
+#: admin/functions.php:265
+msgid "There are no access records for this user in the database."
+msgstr ""
+
+#: admin/functions.php:271
+msgid "Update User"
+msgstr ""
+
+#: admin/functions.php:277
+msgid "Not Found."
+msgstr ""
+
+#: admin/functions.php:277
+msgid "User does not exist in the database. There are no records matching the user ID specified."
+msgstr ""
+
+#: admin/functions.php:302
+msgid "Application Error."
+msgstr ""
+
+#: admin/functions.php:302
+msgid "There seems to be some error with the application. Application settings seem to be corrupt."
+msgstr ""
+
+#: admin/functions.php:302
+msgid "Please contact "
+msgstr ""
+
+#: admin/functions.php:302
+msgid "support@stitchapps.com"
+msgstr ""
+
+#: admin/functions.php:302
+msgid " for assistance."
+msgstr ""
+
+#: admin/functions.php:308
+msgid "Captcha"
+msgstr ""
+
+#: admin/functions.php:309
+msgid "Analytics"
+msgstr ""
+
+#: admin/functions.php:312
+#: admin/functions.php:505
+#: admin/functions.php:529
+#: admin/functions.php:553
+msgid "CSS Editor"
+msgstr ""
+
+#: admin/functions.php:322
+msgid "User Welcome"
+msgstr ""
+
+#: admin/functions.php:323
+msgid "Forgot Password"
+msgstr ""
+
+#: admin/functions.php:324
+msgid "Verify Email"
+msgstr ""
+
+#: admin/functions.php:325
+msgid "New Password"
+msgstr ""
+
+#: admin/functions.php:328
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/functions.php:335
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions.php:344
+msgid "Website"
+msgstr ""
+
+#: admin/functions.php:350
+msgid "Title"
+msgstr ""
+
+#: admin/functions.php:356
+msgid "Description"
+msgstr ""
+
+#: admin/functions.php:362
+msgid "Keywords"
+msgstr ""
+
+#: admin/functions.php:368
+msgid "Sending Email"
+msgstr ""
+
+#: admin/functions.php:374
+msgid "User Verification"
+msgstr ""
+
+#: admin/functions.php:384
+#: admin/functions.php:418
+#: admin/functions.php:464
+#: admin/functions.php:497
+#: admin/functions.php:521
+#: admin/functions.php:545
+#: admin/functions.php:569
+#: admin/functions.php:611
+#: admin/functions.php:653
+#: admin/functions.php:695
+#: admin/functions.php:737
+#: admin/functions.php:771
+msgid "Update Settings"
+msgstr ""
+
+#: admin/functions.php:392
+msgid "Captcha Settings"
+msgstr ""
+
+#: admin/functions.php:395
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: admin/functions.php:401
+msgid "Please note that if you do not enable reCAPTCHA option above, the application will use it's inbuilt CAPTCHA system for spam protection."
+msgstr ""
+
+#: admin/functions.php:401
+msgid "This is necessary in order to keep the system free from any sort of spam."
+msgstr ""
+
+#: admin/functions.php:405
+msgid "reCaptcha Public Key"
+msgstr ""
+
+#: admin/functions.php:411
+msgid "reCaptcha Private Key"
+msgstr ""
+
+#: admin/functions.php:426
+#: admin/statistics.php:16
+msgid "Analytics Settings"
+msgstr ""
+
+#: admin/functions.php:429
+msgid "Enable Analytics"
+msgstr ""
+
+#: admin/functions.php:438
+msgid "Analytics Code"
+msgstr ""
+
+#: admin/functions.php:443
+msgid "Google Tracking Settings"
+msgstr ""
+
+#: admin/functions.php:445
+msgid "Google Username"
+msgstr ""
+
+#: admin/functions.php:451
+msgid "Google Password"
+msgstr ""
+
+#: admin/functions.php:457
+#: admin/statistics.php:23
+msgid "Site ID"
+msgstr ""
+
+#: admin/functions.php:472
+msgid "Facebook Settings"
+msgstr ""
+
+#: admin/functions.php:475
+msgid "Enable Facebook"
+msgstr ""
+
+#: admin/functions.php:480
+msgid "If you uncheck the above option, current users who logged in via Facebook will no longer be able to login via Facebook option."
+msgstr ""
+
+#: admin/functions.php:480
+msgid "It is recommended to have Facebook connect enabled to increase signups."
+msgstr ""
+
+#: admin/functions.php:484
+msgid "Facebook API Key"
+msgstr ""
+
+#: admin/functions.php:490
+msgid "Facebook Secret Key"
+msgstr ""
+
+#: admin/functions.php:595
+#: admin/functions.php:637
+#: admin/functions.php:679
+#: admin/functions.php:721
+msgid "Email Settings"
+msgstr ""
+
+#: admin/functions.php:595
+msgid "(New User)"
+msgstr ""
+
+#: admin/functions.php:598
+#: admin/functions.php:640
+#: admin/functions.php:682
+#: admin/functions.php:724
+msgid "Subject"
+msgstr ""
+
+#: admin/functions.php:604
+#: admin/functions.php:646
+#: admin/functions.php:688
+#: admin/functions.php:730
+msgid "Message"
+msgstr ""
+
+#: admin/functions.php:637
+msgid "(Forgot Password)"
+msgstr ""
+
+#: admin/functions.php:679
+msgid "(Verify User)"
+msgstr ""
+
+#: admin/functions.php:721
+msgid "(New Password)"
+msgstr ""
+
+#: admin/functions.php:745
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: admin/functions.php:748
+msgid "Enable Access Logs"
+msgstr ""
+
+#: admin/functions.php:753
+msgid "Check the option above if you want to enable access logs for the users."
+msgstr ""
+
+#: admin/functions.php:753
+msgid "Enabling user access logs will maintain user records when they signin to the website along with their IP Address."
+msgstr ""
+
+#: admin/functions.php:757
+msgid "Maximum Invalid Logins"
+msgstr ""
+
+#: admin/functions.php:763
+msgid "Session Timeout"
+msgstr ""
+
+#: admin/functions.php:766
+msgid "(Enter the value in seconds.)"
+msgstr ""
+
+#: admin/log.php:11
+msgid "Log - "
+msgstr ""
+
+#: admin/log.php:33
+#: admin/sql-logs.php:12
+#: admin/sql-logs.php:16
+#: admin/sql-logs.php:20
+msgid "SQL Logs"
+msgstr ""
+
+#: admin/log.php:47
+msgid "Log File Empty."
+msgstr ""
+
+#: admin/log.php:47
+msgid "The log file you are trying to view does not have any content. It seems to be empty."
+msgstr ""
+
+#: admin/log.php:58
+msgid "Oops!"
+msgstr ""
+
+#: admin/log.php:58
+msgid "The log file you are trying to view does not exist."
+msgstr ""
+
+#: admin/manageuser.php:16
+msgid "Manage User"
+msgstr ""
+
+#: admin/manageuser.php:44
+msgid "User Updated."
+msgstr ""
+
+#: admin/manageuser.php:44
+msgid "User information has been updated successfully."
+msgstr ""
+
+#: admin/manageuser.php:52
+#: admin/manageuser.php:55
+msgid "Oops! Invalid Link."
+msgstr ""
+
+#: admin/manageuser.php:52
+#: admin/manageuser.php:55
+msgid "The page you are trying to access does not exist. Please make sure you are following the right link."
+msgstr ""
+
+#: admin/settings.php:12
+msgid "Site Settings"
+msgstr ""
+
+#: admin/settings.php:109
+#: admin/settings.php:154
+#: admin/settings.php:222
+#: admin/settings.php:269
+#: admin/settings.php:412
+msgid "Settings Updated."
+msgstr ""
+
+#: admin/settings.php:109
+#: admin/settings.php:154
+#: admin/settings.php:222
+#: admin/settings.php:269
+#: admin/settings.php:412
+msgid "Changes have been made successfully."
+msgstr ""
+
+#: admin/settings.php:111
+msgid "Please make sure that Website & Webtitle fields are not empty."
+msgstr ""
+
+#: admin/settings.php:277
+#: admin/settings.php:285
+#: admin/settings.php:293
+msgid "CSS Updated."
+msgstr ""
+
+#: admin/settings.php:277
+#: admin/settings.php:285
+#: admin/settings.php:293
+msgid "Changes made to the CSS file have been saved."
+msgstr ""
+
+#: admin/settings.php:311
+#: admin/settings.php:329
+#: admin/settings.php:347
+#: admin/settings.php:365
+msgid "Template Updated."
+msgstr ""
+
+#: admin/settings.php:311
+#: admin/settings.php:329
+#: admin/settings.php:347
+#: admin/settings.php:365
+msgid "Changes made to the email template have been saved."
+msgstr ""
+
+#: admin/sql-logs.php:26
+msgid "Filename"
+msgstr ""
+
+#: admin/sql-logs.php:27
+msgid "Size"
+msgstr ""
+
+#: admin/sql-logs.php:28
+msgid "Date"
+msgstr ""
+
+#: admin/statistics.php:11
+#: admin/statistics.php:15
+#: admin/statistics.php:19
+#: admin/statistics.php:54
+msgid "Statistics"
+msgstr ""
+
+#: admin/statistics.php:23
+msgid "Google ID"
+msgstr ""
+
+#: admin/statistics.php:63
+msgid "Settings not configured."
+msgstr ""
+
+#: admin/statistics.php:63
+msgid "It seems that your Google analytics settings are not configured properly. Please configure them properly."
+msgstr ""
+
+#: admin/users.php:13
+#: admin/users.php:70
+msgid "Manage Users"
+msgstr ""
+
+#: admin/users.php:36
+msgid "User(s) removed."
+msgstr ""
+
+#: admin/users.php:36
+msgid "Your selected users have been removed."
+msgstr ""
+
+#: admin/users.php:38
+msgid "Select User(s)."
+msgstr ""
+
+#: admin/users.php:38
+msgid "You must select atleast one user to apply this action."
+msgstr ""
+
+#: admin/users.php:44
+msgid "Select an option."
+msgstr ""
+
+#: admin/users.php:44
+msgid "You must select an option to do anything."
+msgstr ""
+
+#: admin/users.php:81
+msgid "select"
+msgstr ""
+
+#: admin/users.php:82
+msgid "Delete users"
+msgstr ""
+
+#: admin/users.php:82
+msgid "Apply"
+msgstr ""
+
+#: admin/users.php:108
+msgid "Facebook ID"
+msgstr ""
+
+#: admin/users.php:186
+msgid "No users found."
+msgstr ""
+
+#: admin/users.php:186
+msgid "There are no registered users till now."
+msgstr ""
+
+#: static/contact.php:2
+msgid "Contact Us"
+msgstr ""
+
+#: static/contact.php:6
+msgid "Message Sent."
+msgstr ""
+
+#: static/contact.php:6
+msgid "You message has been sent successfully. We will revert back to you soon."
+msgstr ""
+
+#: static/contact.php:7
+msgid "Message sending failed. Please try again after some time."
+msgstr ""
+
+#: static/contact.php:8
+msgid "Invalid Verification."
+msgstr ""
+
+#: static/contact.php:8
+msgid "Please fill in the verification field correctly."
+msgstr ""
+
+#: static/terms.php:2
+#: static/terms.php:3
+#: user/footer.php:19
+msgid "Terms of Service"
+msgstr ""
+
+#: user/account.php:4
+#: user/account.php:7
+#: user/header.php:96
+msgid "Account"
+msgstr ""
+
+#: user/account.php:31
+msgid "Click here to change your password"
+msgstr ""
+
+#: user/account.php:32
+msgid "Key"
+msgstr ""
+
+#: user/account.php:33
+msgid "Joined"
+msgstr ""
+
+#: user/account.php:37
+msgid "Unable to retrieve."
+msgstr ""
+
+#: user/account.php:37
+msgid "Oops! We are unable to retrieve your account information at the moment. Please try again later."
+msgstr ""
+
+#: user/account.php:46
+#: user/closeaccount.php:4
+#: user/closeaccount.php:7
+msgid "Close Account"
+msgstr ""
+
+#: user/account.php:47
+msgid "If you wish to close your account permanently, then you can do so by clicking the button below."
+msgstr ""
+
+#: user/account.php:48
+msgid "Close your account"
+msgstr ""
+
+#: user/changepassword.php:12
+#: user/changepassword.php:15
+#: user/header.php:99
+msgid "Change Password"
+msgstr ""
+
+#: user/changepassword.php:39
+#: user/passreset.php:49
+msgid "Unable to process."
+msgstr ""
+
+#: user/changepassword.php:39
+msgid "We are unable to process your request at this time. Please try again later."
+msgstr ""
+
+#: user/changepassword.php:42
+msgid "Password mismatch."
+msgstr ""
+
+#: user/changepassword.php:42
+msgid "Your current password does not match with the one stored with us."
+msgstr ""
+
+#: user/closeaccount.php:36
+msgid "You are about to close your account. Closing your account will delete your profile data, and any other data associated with your account."
+msgstr ""
+
+#: user/closeaccount.php:39
+msgid "Permanently close my account"
+msgstr ""
+
+#: user/editprofile.php:14
+#: user/header.php:100
+msgid "Edit Profile"
+msgstr ""
+
+#: user/editprofile.php:34
+msgid "Profile Updated."
+msgstr ""
+
+#: user/editprofile.php:34
+msgid "Your profile has been updated successfully."
+msgstr ""
+
+#: user/footer.php:18
+msgid "Copyright"
+msgstr ""
+
+#: user/footer.php:23
+msgid "Page generated in"
+msgstr ""
+
+#: user/footer.php:23
+msgid "seconds"
+msgstr ""
+
+#: user/forgot.php:69
+msgid "Password reset link sent."
+msgstr ""
+
+#: user/forgot.php:69
+msgid "You will receive an email with password reset link shortly. Use the link to reset your password and start accessing our services."
+msgstr ""
+
+#: user/forgot.php:71
+#: user/process.php:288
+msgid "Email not found."
+msgstr ""
+
+#: user/forgot.php:71
+#: user/process.php:288
+msgid "It seems that this email is not registered with us."
+msgstr ""
+
+#: user/forgot.php:83
+#: user/login.php:22
+#: user/login.php:28
+#: user/login.php:36
+#: user/passreset.php:68
+msgid "Active Session."
+msgstr ""
+
+#: user/forgot.php:83
+#: user/login.php:22
+#: user/login.php:28
+#: user/login.php:36
+msgid "You are already logged in to the website. This page cannot be accessed by a logged in user"
+msgstr ""
+
+#: user/functions.php:235
+#: user/functions.php:275
+#: user/functions.php:353
+#: user/header.php:84
+#: user/login.php:12
+msgid "Login"
+msgstr ""
+
+#: user/functions.php:255
+#: user/functions.php:316
+msgid "Remember Me"
+msgstr ""
+
+#: user/functions.php:258
+#: user/functions.php:319
+msgid "Don't check this option on public computers."
+msgstr ""
+
+#: user/functions.php:264
+#: user/functions.php:340
+msgid "Forgot Password?"
+msgstr ""
+
+#: user/functions.php:268
+#: user/functions.php:346
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: user/functions.php:283
+msgid "Go Social"
+msgstr ""
+
+#: user/functions.php:284
+msgid "Select from the following social media to login to the website using your account."
+msgstr ""
+
+#: user/functions.php:296
+msgid "Verify Login"
+msgstr ""
+
+#: user/functions.php:328
+#: user/functions.php:387
+#: user/functions.php:438
+#: user/functions.php:512
+#: user/functions.php:644
+msgid "Are you Human?"
+msgstr ""
+
+#: user/functions.php:379
+#: user/functions.php:430
+msgid "Please enter your email address over here."
+msgstr ""
+
+#: user/functions.php:399
+msgid "Reset Password"
+msgstr ""
+
+#: user/functions.php:404
+#: user/functions.php:455
+#: user/functions.php:529
+msgid "Already on"
+msgstr ""
+
+#: user/functions.php:404
+#: user/functions.php:455
+#: user/functions.php:529
+msgid "Login Here"
+msgstr ""
+
+#: user/functions.php:419
+#: user/functions.php:450
+msgid "Resend confirmation email"
+msgstr ""
+
+#: user/functions.php:470
+#: user/header.php:85
+msgid "Register"
+msgstr ""
+
+#: user/functions.php:493
+msgid "(This will be your username.)"
+msgstr ""
+
+#: user/functions.php:502
+#: user/functions.php:570
+msgid "Show Password"
+msgstr ""
+
+#: user/functions.php:524
+msgid "Join Now"
+msgstr ""
+
+#: user/functions.php:537
+msgid "Unrestricted Access"
+msgstr ""
+
+#: user/functions.php:538
+msgid "Sign up to the website and get total access our services without any restrictions. Please make sure you fill in all the fields in the form to register."
+msgstr ""
+
+#: user/functions.php:554
+msgid "Current Password"
+msgstr ""
+
+#: user/functions.php:559
+msgid "Please enter your current password over here."
+msgstr ""
+
+#: user/functions.php:577
+msgid "Save Changes"
+msgstr ""
+
+#: user/functions.php:586
+msgid "Once your password is changed successfully, you will be logged out of the website and will be required to sign in again with your new password."
+msgstr ""
+
+#: user/functions.php:656
+msgid "Send Message"
+msgstr ""
+
+#: user/functions.php:664
+msgid "Reach Us"
+msgstr ""
+
+#: user/functions.php:665
+msgid "You can also reach us via following means:"
+msgstr ""
+
+#: user/functions.php:666
+msgid "+91 9871084893"
+msgstr ""
+
+#: user/functions.php:666
+msgid "Blackberry Messenger - 2850E752"
+msgstr ""
+
+#: user/functions.php:769
+msgid "Update Profile"
+msgstr ""
+
+#: user/functions.php:774
+msgid "We are unable to find the user in our system. You can still try again later."
+msgstr ""
+
+#: user/header.php:68
+msgid "Admin"
+msgstr ""
+
+#: user/header.php:75
+msgid "Settings"
+msgstr ""
+
+#: user/header.php:77
+msgid "Logs"
+msgstr ""
+
+#: user/header.php:104
+#: user/header.php:106
+#: user/logout.php:34
+msgid "Logout"
+msgstr ""
+
+#: user/passreset.php:4
+msgid "Password Reset"
+msgstr ""
+
+#: user/passreset.php:30
+msgid "Time Expired."
+msgstr ""
+
+#: user/passreset.php:30
+msgid "You seem to have exceeded the timeframe to reset your password. Please generate your password reset link again."
+msgstr ""
+
+#: user/passreset.php:47
+msgid "New Password Sent."
+msgstr ""
+
+#: user/passreset.php:47
+msgid "An email containing your new password has been sent to your registered email address."
+msgstr ""
+
+#: user/passreset.php:49
+msgid "We are unable to process your request at this time. Please try again after some time."
+msgstr ""
+
+#: user/passreset.php:53
+msgid "Invalid Reset Link."
+msgstr ""
+
+#: user/passreset.php:53
+msgid "This seems to be an invalid password reset link. Please check the link again or else try generating a new password reset request."
+msgstr ""
+
+#: user/passreset.php:68
+msgid "You are already logged in to the website. This page cannot be accessed by a logged in user."
+msgstr ""
+
+#: user/process.php:73
+#: user/process.php:214
+msgid "Invalid Credentials."
+msgstr ""
+
+#: user/process.php:73
+#: user/process.php:214
+msgid "The details entered by you do not match."
+msgstr ""
+
+#: user/process.php:82
+#: user/process.php:223
+msgid "Email not verified."
+msgstr ""
+
+#: user/process.php:82
+#: user/process.php:223
+msgid "You have not verified your email address yet. Please verify your email in order to access our services."
+msgstr ""
+
+#: user/process.php:86
+#: user/process.php:227
+msgid "Account Banned."
+msgstr ""
+
+#: user/process.php:86
+#: user/process.php:227
+msgid "Please contact support staff for further assistance."
+msgstr ""
+
+#: user/process.php:187
+msgid "Attempts Exceeded."
+msgstr ""
+
+#: user/process.php:187
+msgid "You have exceeded the limit of login attempts. Please verify that you are human."
+msgstr ""
+
+#: user/register.php:100
+#: user/register.php:103
+msgid "Congrats!"
+msgstr ""
+
+#: user/register.php:100
+#: user/register.php:103
+msgid "You have been registered successfully on the website."
+msgstr ""
+
+#: user/register.php:100
+msgid "You will receive an activation email shortly. Please verify your email address to access our services."
+msgstr ""
+
+#: user/resend.php:78
+#: user/resend.php:82
+msgid "Activation email sent."
+msgstr ""
+
+#: user/resend.php:78
+#: user/resend.php:82
+msgid "You will receive the activation email shortly."
+msgstr ""
+
+#: user/resend.php:86
+msgid "Account Active."
+msgstr ""
+
+#: user/resend.php:86
+msgid "You already have an active account with us. There is no need for activation."
+msgstr ""
+
+#: user/verify.php:9
+msgid "Email verification"
+msgstr ""
+
+#: user/verify.php:43
+msgid "Email verified."
+msgstr ""
+
+#: user/verify.php:43
+msgid "Your email has been verified successfully. You can now login and access your account."
+msgstr ""
+
+#: user/verify.php:45
+msgid "Account active."
+msgstr ""
+
+#: user/verify.php:45
+msgid "The account associated with this email is already active. There is no need for activation."
+msgstr ""
+
+#: user/verify.php:48
+msgid "Verification is not valid."
+msgstr ""
+
+#: user/verify.php:48
+msgid "The email verification seems to be invalid. Please make sure that you are following the right activation link sent to your email."
+msgstr ""
+

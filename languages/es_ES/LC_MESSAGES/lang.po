@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auth Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-02 23:15+0530\n"
+"PO-Revision-Date: 2012-08-09 04:27+0530\n"
+"Last-Translator: StitchApps <support@stitchapps.com>\n"
+"Language-Team: StitchApps <support@stitchapps.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "'s profile"
+msgstr "perfil de "
+
+msgid "The user has not entered any information in this section. You can check back some time later to see any changes made over here."
+msgstr "El usuario no ha introducido ninguna información en esta sección. Puede mirar un poco más tarde para ver si hay cambios."
+
+msgid "Facebook Profile"
+msgstr "Perfil de Facebook"
+
+msgid "About Me"
+msgstr "Acerca de mi"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Joined On"
+msgstr "Registrado el"
+
+msgid "Last Access"
+msgstr "Ultimo acceso"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Add User"
+msgstr "Añadir un usuario"
+
+msgid "Access Logs"
+msgstr "Logs de conexión"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Access Settings"
+msgstr "Configuración de conexión"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP Address"
+msgstr "Dirección IP"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Country"
+msgstr "Pais"
+
+msgid "Access"
+msgstr "Conexión"
+
+msgid "No Access Records."
+msgstr "No hay registros de conexiones anteriores."
+
+msgid "There are no access records in the database."
+msgstr "No hay registros de conexiones anteriores en la base de datos"
+
+msgid "Suggestion"
+msgstr "Sugerencia"
+
+msgid "Make sure you have enabled the option to log user access information in the settings panel."
+msgstr "Asegúrese de haber activado la opción de registrar la información de conexión en el panel de control."
+
+msgid "Unauthorized Access."
+msgstr "Acceso no autorizado"
+
+msgid "You are not authorized to access this page."
+msgstr "No está autorizado a conectarse a esta página"
+
+msgid "User Added."
+msgstr "Usuario añadido."
+
+msgid "A new user has been added successfully."
+msgstr "Se ha añadido un nuevo usuario."
+
+msgid "Email already exists."
+msgstr "La direccion de correo electrónico ya existe."
+
+msgid "This email is already registered with us."
+msgstr "ya tenemos registrada esa dirección de correo electrónico."
+
+msgid "Invalid Email."
+msgstr "Dirección de correo electrónico incorrecta."
+
+msgid "Please enter a valid email address in the email field."
+msgstr "Por favor escriba una dirección de correo eléctronico válida."
+
+msgid "Empty Fields."
+msgstr "Campos vacios."
+
+msgid "Please fill in all the fields."
+msgstr "Por favor cubra todos los campos."
+
+msgid "Clear SQL Logs"
+msgstr "Vaciar los logs de SQL"
+
+msgid "Logs Deleted."
+msgstr "Logs borrados"
+
+msgid "All application logs have been deleted from the system."
+msgstr "Se han borrado todos los logs del sistema"
+
+msgid "You are about to delete all application SQL logs from the system. Please note that this process is irreversible and logs once deleted cannot be recovered. Please be sure before clicking the button below to proceed further."
+msgstr "Esta a punto de borrar todos los Logs sql del sistema. Tenga en cuenta que este proceso es irreversible y los logs borrados no se pueden recuperar. Asegúrese por favor antes de pulsar el botón para continuar."
+
+msgid "Clear all SQL logs"
+msgstr "Borrar los logs de SQL"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "General"
+msgstr "General"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Password"
+msgstr "Clave"
+
+msgid "Verified"
+msgstr "Comprobado"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Bio"
+msgstr "Bio"
+
+msgid "Banned"
+msgstr "Prohibido"
+
+msgid "There are no access records for this user in the database."
+msgstr "No existen registros de acceso de este usuario."
+
+msgid "Update User"
+msgstr "Usuario actualizado"
+
+msgid "Not Found."
+msgstr "no encontrado"
+
+msgid "User does not exist in the database. There are no records matching the user ID specified."
+msgstr "El usuario no esta en la base de datos."
+
+msgid "Application Error."
+msgstr "Error de la aplicación"
+
+msgid "There seems to be some error with the application. Application settings seem to be corrupt."
+msgstr "Parece que hay un error.Se ha perdido la configuracion."
+
+msgid "Please contact "
+msgstr "Póngase en contacto con"
+
+msgid "support@stitchapps.com"
+msgstr "support@stitchapps.com"
+
+msgid " for assistance."
+msgstr "para que le ayuden"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Analytics"
+msgstr "Analytics"
+
+msgid "CSS Editor"
+msgstr "Editor CSS"
+
+msgid "User Welcome"
+msgstr "Bienvenido"
+
+msgid "Forgot Password"
+msgstr "Olvidó su clave"
+
+msgid "Verify Email"
+msgstr "Comprobar correo electronico"
+
+msgid "New Password"
+msgstr "Nueva clave"
+
+msgid "Miscellaneous"
+msgstr "Varios"
+
+msgid "General Settings"
+msgstr "Configuración general"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Keywords"
+msgstr "Palabras clave"
+
+msgid "Sending Email"
+msgstr "Enviando correo electrónico"
+
+msgid "User Verification"
+msgstr "Comprobación del usuario"
+
+msgid "Update Settings"
+msgstr "Actualización de la configuración"
+
+msgid "Captcha Settings"
+msgstr "Configuracion del Captcha"
+
+msgid "Enable reCaptcha"
+msgstr "Activar reCaptcha"
+
+msgid "Please note that if you do not enable reCAPTCHA option above, the application will use it's inbuilt CAPTCHA system for spam protection."
+msgstr "Tenga en cuenta que si no activa la opcion reCaptcha la aplicación usara su sistema interno de CAPTCHA para evitar spam"
+
+msgid "This is necessary in order to keep the system free from any sort of spam."
+msgstr "Esto es necesario para evitar Spam"
+
+msgid "reCaptcha Public Key"
+msgstr "Clave pública reCpatcha "
+
+msgid "reCaptcha Private Key"
+msgstr "Clave privada reCaptcha"
+
+msgid "Analytics Settings"
+msgstr "Configuracion de Analytics"
+
+msgid "Enable Analytics"
+msgstr "Activar Analytics"
+
+msgid "Analytics Code"
+msgstr "Código para analytics"
+
+msgid "Google Tracking Settings"
+msgstr "Configuración del seguimiento de Google"
+
+msgid "Google Username"
+msgstr "Usuario de Google"
+
+msgid "Google Password"
+msgstr "Clave de Google"
+
+msgid "Site ID"
+msgstr "ID de la pagina web"
+
+msgid "Facebook Settings"
+msgstr "Configuracion de Facebook"
+
+msgid "Enable Facebook"
+msgstr "Activar Facebook"
+
+msgid "If you uncheck the above option, current users who logged in via Facebook will no longer be able to login via Facebook option."
+msgstr "Si no selecciona la opción anterior los usuarios actuales que han entrado a través de Facebook no podran volver a entrar por la opción de Facebook"
+
+msgid "It is recommended to have Facebook connect enabled to increase signups."
+msgstr "Se recomienda tener activada la conexión con Facebook para tener mas usuarios"
+
+msgid "Facebook API Key"
+msgstr "Clave del API de Facebook"
+
+msgid "Facebook Secret Key"
+msgstr "Clave secreta de Facebook"
+
+msgid "Email Settings"
+msgstr "Configuración del correo electrónico"
+
+msgid "(New User)"
+msgstr "(Nuevo usuario)"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "(Forgot Password)"
+msgstr "(olvidó su clave)"
+
+msgid "(Verify User)"
+msgstr "(Comprobar usuario)"
+
+msgid "(New Password)"
+msgstr "(nueva clave)"
+
+msgid "Miscellaneous Settings"
+msgstr "Configuracion de opciones varias "
+
+msgid "Enable Access Logs"
+msgstr "Activar los logs de acceso"
+
+msgid "Check the option above if you want to enable access logs for the users."
+msgstr "Marque la opción anterior si quiere activar los logs de acceso de los usuarios"
+
+msgid "Enabling user access logs will maintain user records when they signin to the website along with their IP Address."
+msgstr "Activar los logs de acceso de los usuarios registrará cuando acceden al sistema los usuarios y su dirección IP"
+
+msgid "Maximum Invalid Logins"
+msgstr "Número máximo de intentos de acceso no válidos"
+
+msgid "Session Timeout"
+msgstr "Sesión demasiado tiempo inactiva"
+
+msgid "(Enter the value in seconds.)"
+msgstr "(introduzca el valor en segundos)"
+
+msgid "Log - "
+msgstr "Log - "
+
+msgid "SQL Logs"
+msgstr "Logs de SQL"
+
+msgid "Log File Empty."
+msgstr "Fichero de Log vacio"
+
+msgid "The log file you are trying to view does not have any content. It seems to be empty."
+msgstr "El fichero de Log que intenta ver está vacio."
+
+msgid "Oops!"
+msgstr "uyyyy!!"
+
+msgid "The log file you are trying to view does not exist."
+msgstr "El fichero de Log que intenta ver no existe"
+
+msgid "Manage User"
+msgstr "Modificar el usuario"
+
+msgid "User Updated."
+msgstr "Usuario modificado"
+
+msgid "User information has been updated successfully."
+msgstr "la información del usuario se ha modificado correctamente"
+
+msgid "Oops! Invalid Link."
+msgstr "uyy! enlace no válido"
+
+msgid "The page you are trying to access does not exist. Please make sure you are following the right link."
+msgstr "Intenta acceder a una página que no existe. Asegúsere de que sigue el enlace adecuado"
+
+msgid "Site Settings"
+msgstr "Configuración del sistema"
+
+msgid "Settings Updated."
+msgstr "Configuración actualizada"
+
+msgid "Changes have been made successfully."
+msgstr "Los cambios de han realizado correctamente"
+
+msgid "Please make sure that Website & Webtitle fields are not empty."
+msgstr "Compruebe que los campos  Website y Webtitle no estén vacios por favor"
+
+msgid "CSS Updated."
+msgstr "CSS actualizadas"
+
+msgid "Changes made to the CSS file have been saved."
+msgstr "Se han grabado los cambios hechos a las CSS"
+
+msgid "Template Updated."
+msgstr "Plantilla actualizada"
+
+msgid "Changes made to the email template have been saved."
+msgstr "Se han grabado los cambios hechos a la plantilla del correo"
+
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Statistics"
+msgstr "Estadísticas"
+
+msgid "Google ID"
+msgstr "ID de Google"
+
+msgid "Settings not configured."
+msgstr "Sin configurar"
+
+msgid "It seems that your Google analytics settings are not configured properly. Please configure them properly."
+msgstr "Parece que la configuración de tus Analytics de Google no son correctas. Corríjalo."
+
+msgid "Manage Users"
+msgstr "modificar usuarios"
+
+msgid "User(s) removed."
+msgstr "Usuario(s) borrado(s)"
+
+msgid "Your selected users have been removed."
+msgstr "Sus usuarios han sido borrados"
+
+msgid "Select User(s)."
+msgstr "Elija los usuario(s)"
+
+msgid "You must select atleast one user to apply this action."
+msgstr "Debe elegir al menos un usuario para realizar la acción indicada"
+
+msgid "Select an option."
+msgstr "Elija una opción"
+
+msgid "You must select an option to do anything."
+msgstr "Tiene que elegir una opción para hacer algo"
+
+msgid "select"
+msgstr "Elija"
+
+msgid "Delete users"
+msgstr "Borrar usuarios"
+
+msgid "Apply"
+msgstr "Ejecutar"
+
+msgid "Facebook ID"
+msgstr "ID de Facebook"
+
+msgid "No users found."
+msgstr "No se han encontrado usuarios"
+
+msgid "There are no registered users till now."
+msgstr "Por ahora no hay usuarios registrados"
+
+msgid "Contact Us"
+msgstr "póngase en contacto con nosotros"
+
+msgid "Message Sent."
+msgstr "mensaje enviado"
+
+msgid "You message has been sent successfully. We will revert back to you soon."
+msgstr "Su mensaje ha sido enviado correctamente. En seguida estaremos con usted."
+
+msgid "Message sending failed. Please try again after some time."
+msgstr "Ha fallado el envio del mensaje. Inténtelo de nuevo más tarde"
+
+msgid "Invalid Verification."
+msgstr "Comprobación no válida"
+
+msgid "Please fill in the verification field correctly."
+msgstr "Por favor introduzca correctamente el campo de comprobación"
+
+msgid "Terms of Service"
+msgstr "Acuerdos de servicio"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "Click here to change your password"
+msgstr "Pulse aqui para cambiar su clave"
+
+msgid "Key"
+msgstr "Clave"
+
+msgid "Joined"
+msgstr "Asociado"
+
+msgid "Unable to retrieve."
+msgstr "Incapaz de recuperarlo"
+
+msgid "Oops! We are unable to retrieve your account information at the moment. Please try again later."
+msgstr "uyy!! No hemos podido acceder a los datos de su cuenta. Inténtelo de nuevo más tarde"
+
+msgid "Close Account"
+msgstr "Cancelar cuenta"
+
+msgid "If you wish to close your account permanently, then you can do so by clicking the button below."
+msgstr "Si quiere cancelar su cuenta permanentemente pulse en el botón que está aqui debajo"
+
+msgid "Close your account"
+msgstr "Cancelar su cuenta"
+
+msgid "Change Password"
+msgstr "Cambiar clave"
+
+msgid "Unable to process."
+msgstr "Imposible procesarlo"
+
+msgid "We are unable to process your request at this time. Please try again later."
+msgstr "No podemos atender su solicitud ahora mismo. inténtelo más tarde."
+
+msgid "Password mismatch."
+msgstr "La clave no coincide"
+
+msgid "Your current password does not match with the one stored with us."
+msgstr "La clave no coincide con la que tenemos guardada"
+
+msgid "You are about to close your account. Closing your account will delete your profile data, and any other data associated with your account."
+msgstr "Está a punto de cancelar su cuenta. Cancelando su cuenta se borrarán los datos de su perfil y cualquier otro dato asociado con su cuenta."
+
+msgid "Permanently close my account"
+msgstr "Cerrar la cuenta permanentemente"
+
+msgid "Edit Profile"
+msgstr "Modificar el perfil"
+
+msgid "Profile Updated."
+msgstr "Perfil actualizado"
+
+msgid "Your profile has been updated successfully."
+msgstr "Su perfil se ha modificado correctamente"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Page generated in"
+msgstr "Página generada en "
+
+msgid "seconds"
+msgstr "segundos"
+
+msgid "Password reset link sent."
+msgstr "Enlace para reinicilizar la clave enviado"
+
+msgid "You will receive an email with password reset link shortly. Use the link to reset your password and start accessing our services."
+msgstr "Recibirá en breve un correo electrónico con el enlace para reinicilizar su clave. Utilice ese enlace para reinicilizar su clave poder utilizar nuestros servicios"
+
+msgid "Email not found."
+msgstr "Correo electrónico no encontrado"
+
+msgid "It seems that this email is not registered with us."
+msgstr "Parece que esta direccion de correo eletrónico no está registrada en nuestro sistema"
+
+msgid "Active Session."
+msgstr "Sesión activa"
+
+msgid "You are already logged in to the website. This page cannot be accessed by a logged in user"
+msgstr "Ya está conectado al sistema. Esta página no está disponible para usuarios ya conectados"
+
+msgid "Login"
+msgstr "iniciar sesión"
+
+msgid "Remember Me"
+msgstr "Recuerdame"
+
+msgid "Don't check this option on public computers."
+msgstr "No seleccione esta opción en ordenadores públicos"
+
+msgid "Forgot Password?"
+msgstr "¿Olvidó su clave?"
+
+msgid "Resend Confirmation Email"
+msgstr "reenvio del correo de comprobación"
+
+msgid "Go Social"
+msgstr "Vamos a los sitios web "
+
+msgid "Select from the following social media to login to the website using your account."
+msgstr "Elija entre los siguientes sitios web para acceder al sistema con su cuenta"
+
+msgid "Verify Login"
+msgstr "Comprobar el acceso al sistema"
+
+msgid "Are you Human?"
+msgstr "Es humano?"
+
+msgid "Please enter your email address over here."
+msgstr "Ponga su dirección de correo electrónico"
+
+msgid "Reset Password"
+msgstr "Reinicializar la clave"
+
+msgid "Already on"
+msgstr "Ya en"
+
+msgid "Login Here"
+msgstr "Acceso al sistema aqui"
+
+msgid "Resend confirmation email"
+msgstr "Reenvio del correo de comprobación"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "(This will be your username.)"
+msgstr "(este será su nombre de usuario)"
+
+msgid "Show Password"
+msgstr "Mostrar clave"
+
+msgid "Join Now"
+msgstr "Regístrese ahora"
+
+msgid "Unrestricted Access"
+msgstr "Acceso sin restricciones"
+
+msgid "Sign up to the website and get total access our services without any restrictions. Please make sure you fill in all the fields in the form to register."
+msgstr "Regístrese en nuestra página web y obtenga acceso total sin restricciones a nuestros servicios. Asegúrese de rellenar todos los campos del formulario."
+
+msgid "Current Password"
+msgstr "Clave actual"
+
+msgid "Please enter your current password over here."
+msgstr "Por favor introduzca su clave actual"
+
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+msgid "Once your password is changed successfully, you will be logged out of the website and will be required to sign in again with your new password."
+msgstr "Una vez que su clave sea cambiada se le desconectara del sistema y tendrá que conectarse con su nueva clave."
+
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+msgid "Reach Us"
+msgstr "Póngase en contacto con nosotros"
+
+msgid "You can also reach us via following means:"
+msgstr "Tmabién se puede poner en contacto con nosotros a través de :"
+
+msgid "+91 9871084893"
+msgstr "+91 9871084893"
+
+msgid "Blackberry Messenger - 2850E752"
+msgstr "Blackberry Messenger - 2850E752"
+
+msgid "Update Profile"
+msgstr "Actualizar perfil"
+
+msgid "We are unable to find the user in our system. You can still try again later."
+msgstr "No somos capaces de encontrar su usuario. Puede intentarlo más tarde."
+
+msgid "Admin"
+msgstr "Administración"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Logs"
+msgstr "Registros"
+
+msgid "Logout"
+msgstr "Desconectarse"
+
+msgid "Password Reset"
+msgstr "Reinicialización de la clave"
+
+msgid "Time Expired."
+msgstr "Se acabó el tiempo"
+
+msgid "You seem to have exceeded the timeframe to reset your password. Please generate your password reset link again."
+msgstr "Parece que ha superado el tiempo disponible para reinicializar su clave. Haga una nueva solicitud."
+
+msgid "New Password Sent."
+msgstr "Nueva clave enviada."
+
+msgid "An email containing your new password has been sent to your registered email address."
+msgstr "Se acaba de enviar la nueva clave a la direccion de correo electrónico que tenemos apuntada."
+
+msgid "We are unable to process your request at this time. Please try again after some time."
+msgstr "En estos momentos no podemos atender su petición. Inténtelo de nuevo un poco más tarde."
+
+msgid "Invalid Reset Link."
+msgstr "Enlace de reinicialización inválido"
+
+msgid "This seems to be an invalid password reset link. Please check the link again or else try generating a new password reset request."
+msgstr "Parece que es un enlace no válido para reinicializar la clave. Compruebe el enlace o solicite uno nuevo."
+
+msgid "You are already logged in to the website. This page cannot be accessed by a logged in user."
+msgstr "Ya esta conectado al sistema y un usuario ya conectado no puede acceder a esta página."
+
+msgid "Invalid Credentials."
+msgstr "Identificaciñon no válida"
+
+msgid "The details entered by you do not match."
+msgstr "La informacion que ha introducido no concuerda con la anteriormente indicada"
+
+msgid "Email not verified."
+msgstr "Correo electrónico no comprobado"
+
+msgid "You have not verified your email address yet. Please verify your email in order to access our services."
+msgstr "Todavia no ha comprobado su dirección de correo electrónico. Debe hacerlo para acceder a nuestros servicios."
+
+msgid "Account Banned."
+msgstr "Cuenta bloqueada"
+
+msgid "Please contact support staff for further assistance."
+msgstr "Por favor contacte con nuestro servicio de ayuda si lo necesita."
+
+msgid "Attempts Exceeded."
+msgstr "Demasiados intentos"
+
+msgid "You have exceeded the limit of login attempts. Please verify that you are human."
+msgstr "Ha superado el número de intentos de conexión. Asegúrese de que es un humano"
+
+msgid "Congrats!"
+msgstr "Enhorabuena!"
+
+msgid "You have been registered successfully on the website."
+msgstr "Ha sido registrado correctamente."
+
+msgid "You will receive an activation email shortly. Please verify your email address to access our services."
+msgstr "En breve recibirá un correo electrónico de activación. Por favor compruebe su direccion de correo electrónico para acceder a nuestros servicios"
+
+msgid "Activation email sent."
+msgstr "Correo de activación enviado"
+
+msgid "You will receive the activation email shortly."
+msgstr "En breve recibira el correo de activación"
+
+msgid "Account Active."
+msgstr "Cuenta activa"
+
+msgid "You already have an active account with us. There is no need for activation."
+msgstr "Ya tiene una cuenta activa con nosotros. No es necesaria la reactivación"
+
+msgid "Email verification"
+msgstr "Comprobación del corero electrónico"
+
+msgid "Email verified."
+msgstr "Correo electrónico comprobado"
+
+msgid "Your email has been verified successfully. You can now login and access your account."
+msgstr "Se ha comprobado correctamente su correo electrónico. Ya puede acceder a su cuenta"
+
+msgid "Account active."
+msgstr "Cuenta activa"
+
+msgid "The account associated with this email is already active. There is no need for activation."
+msgstr "La cuenta asociada a este correo electrónico ya esta activada. No se necesita reactivarla"
+
+msgid "Verification is not valid."
+msgstr "COmprobación no válida"
+
+msgid "The email verification seems to be invalid. Please make sure that you are following the right activation link sent to your email."
+msgstr "Parece q la verificación a través del corero electrónico ha fallado. Asegúrese de utilizar el enlace que se ha enviado a su correo electrónico"
+

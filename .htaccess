@@ -1,0 +1,22 @@
+RewriteEngine on
+
+RewriteRule ^profile/(.*)/?$ profile.php?id=$1 [L]
+RewriteRule ^user/process/(.*)/?$ user/process.php?r=$1 [L]
+RewriteRule ^user/login/(.*)/?$ user/login.php?r=$1 [L]
+RewriteRule ^user/verify/(.*)/?$ user/verify.php?k=$1 [L]
+RewriteRule ^user/passreset/(.*)/(.*)/?$ user/passreset.php?k=$1&u=$2 [L]
+RewriteRule ^admin/manageuser/(.*)/?$ admin/manageuser.php?id=$1 [L]
+RewriteRule ^admin/log/(.*)/?$ admin/log.php?id=$1 [L]
+RewriteRule ^admin/users/(.*)/?$ admin/users.php?p=$1 [L]
+RewriteRule ^admin/access/(.*)/?$ admin/access.php?p=$1 [L]
+
+Options All -Indexes
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
